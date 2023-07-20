@@ -9,3 +9,9 @@ states_of_america.append("Wichiland")
 states_of_america.extend(["Tita", "Kerim"])
 
 print(states_of_america)
+
+#Listas dentro de listas
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+
+dirty_dozen = [fruits, vegetables]
